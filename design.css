@@ -1,0 +1,34 @@
+html{
+	padding:20px; 
+	font-family: emoji; 
+	background-color: lightgray; 
+	color: black; 
+	font-weight: bolder; 
+	font-size: 20px; 
+} 
+
+h1{
+	text-align: center; 
+	text-decoration: underline; 
+}
+
+h2{
+	text-align:center;
+	font-weight: bolder;
+}
+ 
+	
+div{
+	margin: 20px;
+	padding: 20px; 
+} 
+	
+img{
+	height: 200px; 
+} 
+
+
+footer{
+	font-family: ubuntu; 
+	text-align:center; 
+}
